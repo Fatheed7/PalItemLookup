@@ -46,3 +46,14 @@
         }
 
         searchItems();
+
+        const btnSwitch = document.getElementById('btnSwitch');
+
+        btnSwitch.addEventListener('click', () => {
+            const isDark = document.documentElement.getAttribute('data-bs-theme') === 'dark';
+            document.documentElement.setAttribute('data-bs-theme', isDark ? 'light' : 'dark');
+            btnSwitch.innerHTML = isDark ? '<i class="fa-solid fa-moon"></i>' : '<i class="fa-solid fa-sun"></i>';
+            
+            btnSwitch.classList.remove(isDark ? "text-dark" : "text-light", isDark ? "btn-light" : "btn-dark");
+            btnSwitch.classList.add(isDark ? "text-light" : "text-dark", isDark ? "btn-dark" : "btn-light");
+        });

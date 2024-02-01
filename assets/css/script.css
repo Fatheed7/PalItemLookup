@@ -13,3 +13,8 @@ body {
     border: 1px solid #ddd;
     border-radius: 5px;
 }
+
+.btn {
+    position: absolute;
+    border-radius: 0 0 50% 0;
+}
