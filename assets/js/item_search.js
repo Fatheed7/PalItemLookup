@@ -9,8 +9,8 @@
         }
 
         async function searchItems() {
-            const jsonData = await fetchJsonData('../assets/json/DT_ItemDataTable.json');
-            const nameTextData = await fetchJsonData('../assets/json/DT_ItemNameText.json');
+            const jsonData = await fetchJsonData('./assets/json/DT_ItemDataTable.json');
+            const nameTextData = await fetchJsonData('./assets/json/DT_ItemNameText.json');
             const searchInput = document.getElementById('searchInput').value.toLowerCase();
             const resultContainer = document.getElementById('resultContainer');
             resultContainer.innerHTML = ''; 

@@ -11,7 +11,7 @@ function performSearch() {
     var resultDiv = document.getElementById('result');
     resultDiv.innerHTML = '';
 
-    fetch('../assets/json/drop_data.json')
+    fetch('./assets/json/drop_data.json')
     .then(response => response.json())
     .then(data => {
         var characters = [];
