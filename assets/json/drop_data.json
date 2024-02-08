@@ -1,0 +1,675 @@
+[
+  {
+    "CharacterID": "Melpaca",
+    "ItemId1": "Wool",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Kitsun",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Anubis",
+    "ItemId1": "Bone",
+    "ItemId2": "Large Pal Soul",
+    "ItemId3": "Innovative Technical Manual"
+  },
+  {
+    "CharacterID": "Incineram",
+    "ItemId1": "Horn",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Incineram Noct",
+    "ItemId1": "Horn",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Mau",
+    "ItemId1": "Gold Coin"
+  },
+  {
+    "CharacterID": "Mau Cryst",
+    "ItemId1": "Ice Organ",
+    "ItemId2": "Sapphire"
+  },
+  {
+    "CharacterID": "Caprity",
+    "ItemId1": "Caprity Meat",
+    "ItemId2": "Red Berries",
+    "ItemId3": "Horn"
+  },
+  {
+    "CharacterID": "Vanwyrm",
+    "ItemId1": "Bone",
+    "ItemId2": "Ruby",
+    "ItemId3": "Gold Coin"
+  },
+  {
+    "CharacterID": "Vanwyrm Cryst",
+    "ItemId1": "Bone",
+    "ItemId2": "Ice Organ",
+    "ItemId3": "Sapphire"
+  },
+  {
+    "CharacterID": "Necromus",
+    "ItemId1": "Pal Metal Ingot",
+    "ItemId2": "Large Pal Soul"
+  },
+  {
+    "CharacterID": "Dragostrophe",
+    "ItemId1": "Bone"
+  },
+  {
+    "CharacterID": "Shadowbeak",
+    "ItemId1": "Pal Metal Ingot",
+    "ItemId2": "Carbon Fiber",
+    "ItemId3": "Innovative Technical Manual"
+  },
+  {
+    "CharacterID": "Azurobe",
+    "ItemId1": "Cloth"
+  },
+  {
+    "CharacterID": "Astegon",
+    "ItemId1": "Pal Metal Ingot",
+    "ItemId2": "Pure Quartz"
+  },
+  {
+    "CharacterID": "Fuack",
+    "ItemId1": "Leather",
+    "ItemId2": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Rushoar",
+    "ItemId1": "Rushoar Pork",
+    "ItemId2": "Leather",
+    "ItemId3": "Bone"
+  },
+  {
+    "CharacterID": "Penking",
+    "ItemId1": "Ice Organ",
+    "ItemId2": "Penking Plume"
+  },
+  {
+    "CharacterID": "Lifmunk",
+    "ItemId1": "Berry Seeds",
+    "ItemId2": "Low Grade Medical Supplies"
+  },
+  {
+    "CharacterID": "Tombat",
+    "ItemId1": "Leather",
+    "ItemId2": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Katress",
+    "ItemId1": "Leather",
+    "ItemId2": "Katress Hair",
+    "ItemId3": "High Grade Technical Manual"
+  },
+  {
+    "CharacterID": "Felbat",
+    "ItemId1": "Cloth",
+    "ItemId2": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Chikipi",
+    "ItemId1": "Egg",
+    "ItemId2": "Chikipi Poultry"
+  },
+  {
+    "CharacterID": "Tocotoco",
+    "ItemId1": "Gunpowder",
+    "ItemId2": "Tocotoco Feather"
+  },
+  {
+    "CharacterID": "Mozzarina",
+    "ItemId1": "Mozzarina Meat",
+    "ItemId2": "Milk"
+  },
+  {
+    "CharacterID": "Cinnamoth",
+    "ItemId1": "Honey",
+    "ItemId2": "Lettuce Seeds",
+    "ItemId3": "Wheat Seeds"
+  },
+  {
+    "CharacterID": "Vixy",
+    "ItemId1": "Leather",
+    "ItemId2": "Bone"
+  },
+  {
+    "CharacterID": "Fuddler",
+    "ItemId1": "Leather"
+  },
+  {
+    "CharacterID": "Cawgnito",
+    "ItemId1": "Bone",
+    "ItemId2": "Venom Gland",
+    "ItemId3": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Menasting",
+    "ItemId1": "Coal",
+    "ItemId2": "Venom Gland"
+  },
+  {
+    "CharacterID": "Eikthyrdeer",
+    "ItemId1": "Eikthyrdeer Venison",
+    "ItemId2": "Leather",
+    "ItemId3": "Horn"
+  },
+  {
+    "CharacterID": "Eikthyrdeer Terra",
+    "ItemId1": "Eikthyrdeer Venison",
+    "ItemId2": "Leather",
+    "ItemId3": "Horn"
+  },
+  {
+    "CharacterID": "Daedream",
+    "ItemId1": "Venom Gland",
+    "ItemId2": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Digtoise",
+    "ItemId1": "Ore",
+    "ItemId2": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Galeclaw",
+    "ItemId1": "Galeclaw Poultry",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Sparkit",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Boltmane",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Grizzbolt",
+    "ItemId1": "Electric Organ",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Elphidran",
+    "ItemId1": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Elphidran Aqua",
+    "ItemId1": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Fenglope",
+    "ItemId1": "Leather",
+    "ItemId2": "Horn"
+  },
+  {
+    "CharacterID": "Pyrin",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Pyrin Noct",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "Leather"
+  },
+  {
+    "CharacterID": "Arsox",
+    "ItemId1": "Horn",
+    "ItemId2": "Flame Organ"
+  },
+  {
+    "CharacterID": "Dinossom",
+    "ItemId1": "Wheat Seeds"
+  },
+  {
+    "CharacterID": "Dinossom Lux",
+    "ItemId1": "Tomato Seeds"
+  },
+  {
+    "CharacterID": "Petallia",
+    "ItemId1": "Beautiful Flower"
+  },
+  {
+    "CharacterID": "Flopie",
+    "ItemId1": "Low Grade Medical Supplies",
+    "ItemId2": "Wheat Seeds"
+  },
+  {
+    "CharacterID": "Celaray",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Wixen",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "High Grade Technical Manual"
+  },
+  {
+    "CharacterID": "Teafant",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Direhowl",
+    "ItemId1": "Leather",
+    "ItemId2": "Ruby",
+    "ItemId3": "Gold Coin"
+  },
+  {
+    "CharacterID": "Maraith",
+    "ItemId1": "Bone",
+    "ItemId2": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Gorirat",
+    "ItemId1": "Leather",
+    "ItemId2": "Bone"
+  },
+  {
+    "CharacterID": "Mammorest",
+    "ItemId1": "High Quality Pal Oil",
+    "ItemId2": "Leather",
+    "ItemId3": "Mammorest Meat"
+  },
+  {
+    "CharacterID": "Mammorest Cryst",
+    "ItemId1": "High Quality Pal Oil",
+    "ItemId2": "Leather",
+    "ItemId3": "Mammorest Meat"
+  },
+  {
+    "CharacterID": "Mossanda",
+    "ItemId1": "Mushroom",
+    "ItemId2": "Leather",
+    "ItemId3": "Tomato Seeds"
+  },
+  {
+    "CharacterID": "Mossanda Lux",
+    "ItemId1": "Mushroom",
+    "ItemId2": "Electric Organ",
+    "ItemId3": "Leather"
+  },
+  {
+    "CharacterID": "Verdash",
+    "ItemId1": "Leather",
+    "ItemId2": "Bone"
+  },
+  {
+    "CharacterID": "Helzephyr",
+    "ItemId1": "Venom Gland",
+    "ItemId2": "Medium Pal Soul"
+  },
+  {
+    "CharacterID": "Nitewing",
+    "ItemId1": "Leather"
+  },
+  {
+    "CharacterID": "Jolthog",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Jolthog Cryst",
+    "ItemId1": "Ice Organ"
+  },
+  {
+    "CharacterID": "Warsect ",
+    "ItemId1": "Honey"
+  },
+  {
+    "CharacterID": "Faleris",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Reindrix",
+    "ItemId1": "Reindrix Venison",
+    "ItemId2": "Leather",
+    "ItemId3": "Horn",
+    "ItemId4": "Ice Organ"
+  },
+  {
+    "CharacterID": "Foxcicle",
+    "ItemId1": "Leather",
+    "ItemId2": "Ice Organ"
+  },
+  {
+    "CharacterID": "Frostallion",
+    "ItemId1": "Ice Organ",
+    "ItemId2": "Diamond"
+  },
+  {
+    "CharacterID": "Frostallion Noct",
+    "ItemId1": "Pure Quartz",
+    "ItemId2": "Large Pal Soul"
+  },
+  {
+    "CharacterID": "Jetragon",
+    "ItemId1": "Pure Quartz",
+    "ItemId2": "Polymer",
+    "ItemId3": "Carbon Fiber",
+    "ItemId4": "Diamond"
+  },
+  {
+    "CharacterID": "Kelpsea",
+    "ItemId1": "Raw Kelpsea",
+    "ItemId2": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Kelpsea Ignis",
+    "ItemId1": "Raw Kelpsea",
+    "ItemId2": "Flame Organ"
+  },
+  {
+    "CharacterID": "Kingpaca",
+    "ItemId1": "Wool"
+  },
+  {
+    "CharacterID": "Ice Kingpaca",
+    "ItemId1": "Wool",
+    "ItemId2": "Ice Organ"
+  },
+  {
+    "CharacterID": "Blazamut",
+    "ItemId1": "Coal",
+    "ItemId2": "Flame Organ"
+  },
+  {
+    "CharacterID": "Univolt",
+    "ItemId1": "Leather",
+    "ItemId2": "Electric Organ",
+    "ItemId3": "Horn"
+  },
+  {
+    "CharacterID": "Foxparks",
+    "ItemId1": "Leather",
+    "ItemId2": "Flame Organ"
+  },
+  {
+    "CharacterID": "Relaxaurus",
+    "ItemId1": "High Quality Pal Oil",
+    "ItemId2": "Ruby"
+  },
+  {
+    "CharacterID": "Relaxaurus Lux",
+    "ItemId1": "High Quality Pal Oil",
+    "ItemId2": "Electric Organ",
+    "ItemId3": "Sapphire"
+  },
+  {
+    "CharacterID": "Lyleen",
+    "ItemId1": "Low Grade Medical Supplies",
+    "ItemId2": "Beautiful Flower",
+    "ItemId3": "Innovative Technical Manual"
+  },
+  {
+    "CharacterID": "Lyleen Noct",
+    "ItemId1": "Low Grade Medical Supplies",
+    "ItemId2": "Beautiful Flower",
+    "ItemId3": "Innovative Technical Manual"
+  },
+  {
+    "CharacterID": "Bristla",
+    "ItemId1": "Wheat Seeds",
+    "ItemId2": "Lettuce Seeds"
+  },
+  {
+    "CharacterID": "Leezpunk",
+    "ItemId1": "Copper Key",
+    "ItemId2": "Silver Key"
+  },
+  {
+    "CharacterID": "Leezpunk Ignis",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "Silver Key"
+  },
+  {
+    "CharacterID": "Blazehowl",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Blazehowl Noct",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Tanzee",
+    "ItemId1": "Mushroom"
+  },
+  {
+    "CharacterID": "Swee",
+    "ItemId1": "Wool"
+  },
+  {
+    "CharacterID": "Sweepa",
+    "ItemId1": "Wool"
+  },
+  {
+    "CharacterID": "Lunaris",
+    "ItemId1": "Paldium Fragment"
+  },
+  {
+    "CharacterID": "Grintale",
+    "ItemId1": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Depresso",
+    "ItemId1": "Venom Gland"
+  },
+  {
+    "CharacterID": "Killamari",
+    "ItemId1": "Venom Gland"
+  },
+  {
+    "CharacterID": "Nox",
+    "ItemId1": "Leather",
+    "ItemId2": "Small Pal Soul"
+  },
+  {
+    "CharacterID": "Pengullet",
+    "ItemId1": "Ice Organ",
+    "ItemId2": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Gumoss",
+    "ItemId1": "Berry Seeds",
+    "ItemId2": "Gumoss Leaf"
+  },
+  {
+    "CharacterID": "Cattiva",
+    "ItemId1": "Red Berries"
+  },
+  {
+    "CharacterID": "Lovander",
+    "ItemId1": "Mushroom",
+    "ItemId2": "Cake",
+    "ItemId3": "Suspicious Juice",
+    "ItemId4": "Strange Juice",
+    "ItemId5": "Memory Wiping Medicine"
+  },
+  {
+    "CharacterID": "Ribbuny",
+    "ItemId1": "Leather",
+    "ItemId2": "Beautiful Flower"
+  },
+  {
+    "CharacterID": "Elizabee",
+    "ItemId1": "Honey",
+    "ItemId2": "Elizabee's Staff"
+  },
+  {
+    "CharacterID": "Dazzi",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Ragnahawk",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Robinquill",
+    "ItemId1": "Wheat Seeds",
+    "ItemId2": "Arrow"
+  },
+  {
+    "CharacterID": "Robinquill Terra",
+    "ItemId1": "Wheat Seeds",
+    "ItemId2": "Arrow"
+  },
+  {
+    "CharacterID": "Bushi",
+    "ItemId1": "Bone",
+    "ItemId2": "Ingot"
+  },
+  {
+    "CharacterID": "Paladius",
+    "ItemId1": "Pal Metal Ingot",
+    "ItemId2": "Diamond"
+  },
+  {
+    "CharacterID": "Broncherry",
+    "ItemId1": "Broncherry Meat",
+    "ItemId2": "Tomato Seeds"
+  },
+  {
+    "CharacterID": "Broncherry Aqua",
+    "ItemId1": "Broncherry Meat",
+    "ItemId2": "Lettuce Seeds"
+  },
+  {
+    "CharacterID": "Surfent",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Surfent Terra",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Gobfin",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Gobfin Ignis",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Lamball",
+    "ItemId1": "Wool",
+    "ItemId2": "Lamball Mutton"
+  },
+  {
+    "CharacterID": "Quivern",
+    "ItemId1": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Beegarde",
+    "ItemId1": "Honey"
+  },
+  {
+    "CharacterID": "Suzaku",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Suzaku Aqua",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Woolipop",
+    "ItemId1": "Cotton Candy",
+    "ItemId2": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Rayhound",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Beakon",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Orserk",
+    "ItemId1": "Electric Organ"
+  },
+  {
+    "CharacterID": "Jormuntide",
+    "ItemId1": "Pal Fluids"
+  },
+  {
+    "CharacterID": "Jormuntide Ignis",
+    "ItemId1": "High Quality Pal Oil",
+    "ItemId2": "Flame Organ"
+  },
+  {
+    "CharacterID": "Vaelet",
+    "ItemId1": "Low Grade Medical Supplies",
+    "ItemId2": "Tomato Seeds"
+  },
+  {
+    "CharacterID": "Reptyro",
+    "ItemId1": "Flame Organ"
+  },
+  {
+    "CharacterID": "Ice Reptyro",
+    "ItemId1": "Ice Organ"
+  },
+  {
+    "CharacterID": "Chillet",
+    "ItemId1": "Leather"
+  },
+  {
+    "CharacterID": "Loupmoon",
+    "ItemId1": "Bone"
+  },
+  {
+    "CharacterID": "Sibelyx",
+    "ItemId1": "High Quality Cloth",
+    "ItemId2": "Ice Organ"
+  },
+  {
+    "CharacterID": "Cryolinx",
+    "ItemId1": "Ice Organ"
+  },
+  {
+    "CharacterID": "Hangyu",
+    "ItemId1": "Fiber"
+  },
+  {
+    "CharacterID": "Hangyu Cryst",
+    "ItemId1": "Fiber",
+    "ItemId2": "Ice Organ"
+  },
+  {
+    "CharacterID": "Hoocrates",
+    "ItemId1": "Fiber",
+    "ItemId2": "High Grade Technical Manual"
+  },
+  {
+    "CharacterID": "Wumpo",
+    "ItemId1": "Ice Organ",
+    "ItemId2": "Beautiful Flower"
+  },
+  {
+    "CharacterID": "Wumpo Botan",
+    "ItemId1": "Lettuce Seeds",
+    "ItemId2": "Tomato Seeds",
+    "ItemId3": "Beautiful Flower"
+  },
+  {
+    "CharacterID": "Cremis",
+    "ItemId1": "Wool"
+  },
+  {
+    "CharacterID": "Dumud",
+    "ItemId1": "Raw Dumud",
+    "ItemId2": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Flambelle",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "High Quality Pal Oil"
+  },
+  {
+    "CharacterID": "Rooby",
+    "ItemId1": "Flame Organ",
+    "ItemId2": "Leather"
+  }
+]
